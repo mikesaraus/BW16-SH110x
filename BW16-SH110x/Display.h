@@ -16,7 +16,7 @@ void display_init() {
   if (has_display) {
     //display.clearDisplay();
     display.setCursor(0, 0);
-    display.setTextColor(SH110X_WHITE, SH110X_BLACK);
+    display.setTextColor(SH110X_WHITE, SH110X_BLACK); 
   }
 }
 
