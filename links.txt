@@ -1,0 +1,5 @@
+Additional Board: (Install BW16)
+https://raw.githubusercontent.com/Ameba-AIoT/ameba-arduino-d/master/Arduino_package/package_realtek_amebad_index.json
+
+Image Tool for Windows:
+https://github.com/ambiot/ambd_sdk/tree/dev/tools/AmebaD/Image_Tool
