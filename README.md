@@ -1,4 +1,4 @@
-# BW16-SH1107G
+# BW16-SH110x
 
 A WiFi deauther and network tool for the Realtek Ameba D (RTL8720DN) platform, supporting both WebUI and SH110x OLED display modes.
 
